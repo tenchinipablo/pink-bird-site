@@ -9,9 +9,10 @@ h1, h2, h3 {
   color: #e75480;
 }
 
-.navbar-brand img {
-  max-height: 40px;
-  width: auto;
+.navbar-brand {
+  font-size: 28px;
+  font-family: 'Dancing Script', cursive;
+  color: #e75480 !important;
 }
 
 
